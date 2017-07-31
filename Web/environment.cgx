@@ -1,0 +1,13 @@
+t <form>
+t <text>
+t <id>dev_time</id>
+c t 1 <value>%s</value>
+t <id>core_degc</id>
+c t 2 <value>%.1f</value>
+t <id>amb_degc</id>
+c t 3 <value>%.1f</value>
+t <id>amb_percent</id>
+c t 4 <value>%.1f</value>
+t </text>
+t </form>
+.
